@@ -1,7 +1,6 @@
 # Textra - A Modern Python Text Editor
 
-Textra is a feature-rich, cross-platform text editor built with Python and the Tkinter GUI toolkit. It aims to provide a modern, user-friendly experience with essential coding and text manipulation features, inspired by editors like Notepad++.
-
+Textra is a feature-rich, cross-platform text editor built with Python and the Tkinter GUI toolkit. It aims to provide a modern, user-friendly experience with essential coding and text manipulation features.
 ## Features
 
 Textra comes packed with a variety of features to enhance your text editing workflow:
