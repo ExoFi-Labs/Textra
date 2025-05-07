@@ -54,6 +54,8 @@ Textra comes packed with a variety of features to enhance your text editing work
 *   **Persistent Settings:** Remembers your chosen theme, font, recent files, and word wrap preference across sessions via `textra_config.json`.
 *   **Modern Look and Feel:** Uses `ttk` themed widgets and custom styling for a more contemporary appearance than standard Tkinter. The UI elements and dialogs have been updated for a sleeker design.
 
+*   ![Image](https://github.com/user-attachments/assets/6517804e-115e-48fb-a0c2-897a187e2ce5)
+
 ## Requirements
 
 *   **Python 3.x:** Textra is developed using Python 3. (Tkinter is usually included with standard Python installations).
