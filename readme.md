@@ -6,21 +6,6 @@ Textra is a feature-rich, cross-platform text editor built with Python and the T
 Textra comes packed with a variety of features to enhance your text editing workflow:
 
 *   **Tabbed Interface:** Open and manage multiple files in separate tabs.
-*   **Theming Support:**
-    *   Comes with a rich selection of pre-built themes:
-        *   Darkula (Default)
-        *   Classic Light
-        *   Nord
-        *   Tokyo Night
-        *   Catppuccin
-        *   One Dark
-        *   Warm Brown
-        *   Cyberpunk
-        *   Forest
-        *   Sunset
-        *   Ocean
-    *   Easily switch themes via the View menu.
-    *   Themes are customizable via `editor_themes.json`.
 *   **Customizable Fonts:**
     *   Change editor font family and size through a dedicated dialog (Tools > Font Settings...).
     *   Settings are saved across sessions.
@@ -49,6 +34,21 @@ Textra comes packed with a variety of features to enhance your text editing work
     *   Word Wrap toggle (View > Word Wrap).
     *   Basic Auto-Indentation (indents new lines, adds extra indent after lines ending with `:`).
     *   Bracket Matching (highlights matching `()`, `[]`, `{}`).
+*   **Theming Support:**
+    *   Comes with a rich selection of pre-built themes:
+        *   Darkula (Default)
+        *   Classic Light
+        *   Nord
+        *   Tokyo Night
+        *   Catppuccin
+        *   One Dark
+        *   Warm Brown
+        *   Cyberpunk
+        *   Forest
+        *   Sunset
+        *   Ocean
+    *   Easily switch themes via the View menu.
+    *   Themes are customizable via `editor_themes.json`.
 *   **Cross-Platform:** Built with Python and Tkinter, designed to run on Windows, macOS, and Linux.
 *   **Persistent Settings:** Remembers your chosen theme, font, recent files, and word wrap preference across sessions via `textra_config.json`.
 *   **Modern Look and Feel:** Uses `ttk` themed widgets and custom styling for a more contemporary appearance than standard Tkinter. The UI elements and dialogs have been updated for a sleeker design.
